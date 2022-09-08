@@ -7,8 +7,10 @@ For this project, we were tasked with the challenge of extract, transforming and
 
 
 Datasets Used:
-https://gisdata.fultoncountyga.gov/search?tags=zip%20code
-https://data.neighborhoodnexus.org/
+ - Dataset 01: https://gisdata.fultoncountyga.gov/search?tags=zip%20code
+ - Dataset 02: https://data.neighborhoodnexus.org/
+ 
+ 
 US Census Data and Atlanta Regional Commision
 
 
