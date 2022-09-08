@@ -18,3 +18,6 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 
 
 ![Screen Shot 2022-09-08 at 6 54 11 PM](https://user-images.githubusercontent.com/107006423/189240045-892b2515-0697-4c38-964f-80337efaca77.png)
+
+
+![Screen Shot 2022-09-08 at 6 54 11 PM](https://user-images.githubusercontent.com/107006423/189240163-2c06b55c-bdf2-4b8a-90d6-74c2a0868bee.png)
