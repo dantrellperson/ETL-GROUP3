@@ -20,4 +20,5 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 ![Screen Shot 2022-09-08 at 6 54 11 PM](https://user-images.githubusercontent.com/107006423/189240045-892b2515-0697-4c38-964f-80337efaca77.png)
 
 
-![Screen Shot 2022-09-08 at 6 54 11 PM](https://user-images.githubusercontent.com/107006423/189240163-2c06b55c-bdf2-4b8a-90d6-74c2a0868bee.png)
+![mongoDB (1)](https://user-images.githubusercontent.com/107006423/189240253-d2ed274c-c699-487e-a4bd-93892828f369.png)
+
