@@ -14,11 +14,9 @@ Datasets Used: US Census Data and Atlanta Regional Commision
 
 After we had decided on our datasets, we began working inside of Jupyter Notebooks to clean data by Panda & Python, as well as load dataset into Postgres. Then, extract all the data merge and loading it into MongoDB.
 
-
- -![ERD](face.JPG)
+![ERD](face.JPG)
  
- - ![ERD](posgresDB_income_table001.jpg)
-
+ - ![ERD](posgresDB_income_table001.JPG)
 
 - ![prosgresDB_population_table](https://user-images.githubusercontent.com/107006423/189239698-92aaf650-70a9-43f4-a45f-c6e6ca59e023.png)
 
