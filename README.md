@@ -17,9 +17,8 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 ![posgresDB_income_table (1)](https://user-images.githubusercontent.com/107006423/189247984-a0a2e85a-76a7-4a99-a42e-4b0a013824d8.png)
  
 -002 ![Income_table001](https://user-images.githubusercontent.com/30300016/189247499-1f91617f-1d79-4558-a277-e0b52326c55b.JPG)
--003 <img src="database_screen_shot/Income_table001.JPG"width="500">
-
-- ![prosgresDB_population_table](https://user-images.githubusercontent.com/107006423/189239698-92aaf650-70a9-43f4-a45f-c6e6ca59e023.png)
+-003 
+ ![prosgresDB_population_table](https://user-images.githubusercontent.com/107006423/189239698-92aaf650-70a9-43f4-a45f-c6e6ca59e023.png)
 
 - ![Screen Shot 2022-09-08 at 6 54 11 PM](https://user-images.githubusercontent.com/107006423/189240045-892b2515-0697-4c38-964f-80337efaca77.png)
 
