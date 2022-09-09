@@ -16,7 +16,6 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 
 ![posgresDB_income_table (1)](https://user-images.githubusercontent.com/107006423/189247984-a0a2e85a-76a7-4a99-a42e-4b0a013824d8.png)
  
--001 ![ERD](Income_table001.JPG)
 -002 ![Income_table001](https://user-images.githubusercontent.com/30300016/189247499-1f91617f-1d79-4558-a277-e0b52326c55b.JPG)
 -003 <img src="database_screen_shot/Income_table001.JPG"width="500">
 
