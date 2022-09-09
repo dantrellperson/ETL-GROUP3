@@ -17,6 +17,7 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 ![ERD](face.JPG)
  
 - ![ERD](Income_table001.JPG)
+- <img src="database_screen_shot/Income_table001.JPG"width="500">
 
 - ![prosgresDB_population_table](https://user-images.githubusercontent.com/107006423/189239698-92aaf650-70a9-43f4-a45f-c6e6ca59e023.png)
 
