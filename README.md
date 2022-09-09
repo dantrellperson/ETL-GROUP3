@@ -25,6 +25,7 @@ After we had decided on our datasets, we began working inside of Jupyter Noteboo
 - ![mongoDB (1)](https://user-images.githubusercontent.com/107006423/189240253-d2ed274c-c699-487e-a4bd-93892828f369.png)
 
 -teamwork makes the dream work!
+
 ![face](https://user-images.githubusercontent.com/107006423/189249009-ed6f75f8-8267-4061-ae05-213760159605.JPG)
 
 
